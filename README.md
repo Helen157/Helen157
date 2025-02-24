@@ -14,7 +14,7 @@
  
 <br>
  
- Para me conhecer melhor e me contatar siga-me nas redes abaixo!
+ Para mais informações, confira as redes abaixo!
  
 <div> 
     <a href = "mailto:helengg2021@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
