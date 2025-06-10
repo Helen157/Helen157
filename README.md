@@ -1,4 +1,4 @@
-<h1 align="left">Hey! I'm Helen welcome to my profile! 👋</h1>
+<h1 align="left">Hey! I'm Helen, welcome to my profile! 👋</h1>
 
 ###
 
@@ -38,6 +38,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
 </div>
 
+<h2 align="left">GitHub States</h2>
+
  <div>
    <a href="https://github.com/Helen157">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Helen157&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -46,7 +48,7 @@
 
 <h2 align="left">Talk to me</h2>
 
-<div align="center">
+<div align="left">
   <a href = "mailto:helengg2021@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   <a href="https://www.linkedin.com/in/helen-gonçalves2023" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
  <a href="https://discord.com/channels/@helen.gg" target="_blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
