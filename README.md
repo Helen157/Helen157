@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="google logo"  />
 </div>
 
-<h2 align="left">GitHub States</h2>
+<h2 align="left">GitHub Stats</h2>
 
  <div>
    <a href="https://github.com/Helen157">
