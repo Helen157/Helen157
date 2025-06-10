@@ -10,9 +10,14 @@
 
 ###
 
-<p align="left">🎓 Information Systems undergraduate at UFVJM and student at Programadores do Amanhã.<br>💻 Passionate about technology, constantly improving my skills in programming, IT management, and technical support.<br>🚀 Interested in exploring different areas of IT, with a focus on building innovative solutions and contributing to impactful projects.<br>🛠️ Knowledge in HTML, CSS, JavaScript, Node.js, MySQL, and Git.<br>🤝 Strong communication, teamwork, and a continuous learning mindset.</p>
+<p align="left">I'm an Information Systems undergraduate at UFVJM and a student at Programadores do Amanhã. Passionate about technology and driven by challenges, I'm constantly improving my skills in programming, IT management, and technical support. I'm eager to explore different areas of tech and contribute to meaningful, innovative projects.</p>
 
 ###
+
+<p align="left">🛠️ Skills in HTML, CSS, JavaScript, Node.js, MySQL, and Git<br><br>🚀 Interested in innovation and impactful tech projects<br><br>🤝 Strong communication, adaptability, and collaborative mindset<br><br>📚 Always learning and expanding technical knowledge</p>
+
+###
+
 
 <h2 align="left">Study skills and interests</h2>
 
