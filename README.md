@@ -51,7 +51,7 @@
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Helen157&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
-<h2 align="left">Talk to me</h2>
+<h2 align="left">Entre em contato comigo!</h2>
 
 <div align="left">
   <a href = "mailto:helengg2021@gmail.com"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
