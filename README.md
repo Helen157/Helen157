@@ -14,7 +14,7 @@
   
 ###
 
-<p align="left">🛠️ Habilidades em HTML, CSS, JavaScript, Node.js, MySQL e Git;🚀 Interessada em inovação e projetos tecnológicos de impacto;🤝 Boa comunicação, adaptabilidade e espírito colaborativo;📚 Sempre aprendendo e expandindo o conhecimento técnico</p>
+<p align="left">🛠️ Habilidades em HTML, CSS, JavaScript, Node.js, MySQL e Git<br><br>🚀 Interessada em inovação e projetos tecnológicos de impacto<br><br>🤝 Boa comunicação, adaptabilidade e espírito colaborativo<br><br>📚 Sempre aprendendo e expandindo o conhecimento técnico</p>
 
 ###
 
