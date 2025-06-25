@@ -1,4 +1,4 @@
-<h1 align="left">Hey! I'm Helen, welcome to my profile! 👋</h1>
+<h1 align="left">Olá! Eu sou a Helen, bem-vindo(a) ao meu perfil!👋</h1>
 
 ###
 
@@ -6,20 +6,20 @@
 
 ###
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
 ###
 
-<p align="left">I'm an Information Systems undergraduate at UFVJM and a student at Programadores do Amanhã. Passionate about technology and driven by challenges, I'm constantly improving my skills in programming, IT management, and technical support. I'm eager to explore different areas of tech and contribute to meaningful, innovative projects.</p>
+<p align="left">Sou graduanda em Sistemas de Informação pela UFVJM e estudante do Programadores do Amanhã. Apaixonada por tecnologia e movida por desafios, estou em constante aprimoramento das minhas habilidades em programação, gestão de TI e suporte técnico. Tenho grande interesse em explorar diferentes áreas da tecnologia e contribuir com projetos inovadores e com propósito.</p>
+  
+###
+
+<p align="left">🛠️ Habilidades em HTML, CSS, JavaScript, Node.js, MySQL e Git;🚀 Interessada em inovação e projetos tecnológicos de impacto;🤝 Boa comunicação, adaptabilidade e espírito colaborativo;📚 Sempre aprendendo e expandindo o conhecimento técnico</p>
 
 ###
 
-<p align="left">🛠️ Skills in HTML, CSS, JavaScript, Node.js, MySQL, and Git<br><br>🚀 Interested in innovation and impactful tech projects<br><br>🤝 Strong communication, adaptability, and collaborative mindset<br><br>📚 Always learning and expanding technical knowledge</p>
 
-###
-
-
-<h2 align="left">Study skills and interests</h2>
+<h2 align="left">Habilidades e interesses em estudo</h2>
 
 ###
 
