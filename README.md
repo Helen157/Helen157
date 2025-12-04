@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Sou graduanda em Sistemas de Informação pela UFVJM e estudante do Programadores do Amanhã. Apaixonada por tecnologia e movida por desafios, estou em constante aprimoramento das minhas habilidades em programação, gestão de TI e suporte técnico. Tenho grande interesse em explorar diferentes áreas da tecnologia e contribuir com projetos inovadores e com propósito.</p>
+<p align="left">Sou Dev Full Stack formada pelo Instituto Programadores do Amanhã e graduanda em Sistemas de Informação pela UFVJM. Apaixonada por tecnologia e movida por desafios, estou em constante aprimoramento das minhas habilidades em programação, gestão de TI e suporte técnico. Tenho grande interesse em explorar diferentes áreas da tecnologia e contribuir com projetos inovadores e com propósito.</p>
   
 ###
 
